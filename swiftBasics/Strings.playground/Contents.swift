@@ -23,6 +23,20 @@ String Interpolation
   - means a variable is being inserted into a string
   - var greetings = "Hello \(language)"
 
+String Literals
+  - \n = new line
+  - \t = tab
+
+Emojis
+  - press Control + Command + Spacebar
+  - displays list of emojis to use
+  - emojis are not part of the basic character set
+
+Unicode
+  - industry standard for characters
+  - consistently represent characters in every foreign language and emojis
+  - Swift is designed to support every foreign language
+
 */
 
-
+println( "List:\n1\t🍎\n2\t🍌\n6\t🍊" )
