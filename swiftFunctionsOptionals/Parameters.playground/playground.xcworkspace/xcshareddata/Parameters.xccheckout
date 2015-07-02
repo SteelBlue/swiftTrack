@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>59F01005-CA5E-4E19-9D3C-7E9FA4275CC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Parameters</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6346ED4AD72A8A34A56D1F151357910B105486AD</key>
+		<string>https://github.com/SteelBlue/swiftTrack.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swiftFunctionsOptionals/Parameters.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6346ED4AD72A8A34A56D1F151357910B105486AD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SteelBlue/swiftTrack.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6346ED4AD72A8A34A56D1F151357910B105486AD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6346ED4AD72A8A34A56D1F151357910B105486AD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swiftTrack</string>
+		</dict>
+	</array>
+</dict>
+</plist>
