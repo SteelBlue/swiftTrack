@@ -15,6 +15,9 @@ Variables
     - rotate
     - scale up/down
 
+Arrays
+  - are indexed lists
+
 View Function
   - Option + Click
   - displays Declaration and Description
@@ -45,4 +48,8 @@ todo
 // Removed Item at Index in the Array
 let itemRemoved2 = todo.removeAtIndex(1)
 itemRemoved2
+todo
+
+// Insert Item at Index in the Array
+todo.insert("Call Mom", atIndex: 0) // 'atIndex' is a label
 todo
