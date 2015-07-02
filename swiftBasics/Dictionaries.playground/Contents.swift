@@ -13,17 +13,19 @@ Dictionary Concept
 Dictionary
   - use key : value pairs
 
+Code    Country Name
+     or
+Key     Value
+
+  CA    Canada
+  BE    Belgium
+  FR    France
+  DE    Germany
+  UK    United Kingdom
+  US    United States
+
 */
 
-//  Code    Country Name
-//  or
-//  Key     Value
-//  CA      Canada
-//  BE      Belgium
-//  FR      France
-//  DE      Germany
-//  UK      United Kingdom
-//  US      United States
 
 var countries = [
                   "CA" : "Canada",
@@ -31,4 +33,19 @@ var countries = [
                   "FR" : "France"
                 ]
 
-countries["CA"]
+// Display Value from the Dictionary
+countries["CA"] // returns an Optional
+countries["US"] // nil signifies nothing
+
+// Assign new Value to the Dictionary
+countries["US"] = "United States"
+countries
+
+// Updated Value in the Dictionary
+countries["US"] = "United States of America"
+countries
+
+// Remove Key:Value Pair in the Dictionary
+let item = countries.removeValueForKey("CA") // return key:value pair that was removed
+item
+countries
