@@ -2,9 +2,11 @@
 
 import UIKit
 
-func songTuple(#list: Dictionary) -> (name1: String, name2: String) {
-  
+func songTuple(list: Dictionary<song: Dictionary<String, String>>) -> (name1: String, name2: String) {
+  return ("This", 10)
 }
+
+songTuple()
 
 // Create Array for Songs
 var playlist = []
